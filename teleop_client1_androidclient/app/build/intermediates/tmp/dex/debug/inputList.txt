@@ -1,0 +1,2 @@
+D:\dev\teleop_client1\app\build\intermediates\classes\debug
+D:\dev\teleop_client1\app\build\intermediates\pre-dexed\debug\support-v4-18.0.0-1f9df56ac219a22ddd65e3404de9090ed26517fb.jar
